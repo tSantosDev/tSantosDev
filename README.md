@@ -1,6 +1,6 @@
 # Thiago Santos Ferreira 👋
 
-Olá, me chamo Thiago Santos. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Ciência da Computação. Me encontro na busca por uma oportunidade no mercado e sigo explorando as áreas da tecnologia afim de me encontrar.
+Olá, me chamo Thiago. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Ciência da Computação. Me encontro na busca por uma oportunidade no mercado e sigo explorando as áreas da tecnologia afim de me encontrar.
 
 ![giphy](https://github.com/tSantosDev/dio-lab-open-source/assets/113127080/de15b3de-cbfa-4661-9490-fff4773bd12a)
 
